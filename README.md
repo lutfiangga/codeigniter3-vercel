@@ -34,7 +34,7 @@ require __DIR__.'/../index.php';
 
 ### 2. Buat file `vercel.json`
 
-Isi file `api/index.php` dengan kode berikut:
+Isi file `vercel.json` dengan kode berikut:
 
 ```json
 {
