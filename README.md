@@ -59,8 +59,8 @@ Isi file `vercel.json` dengan kode berikut:
    ### 1. Open `vercel.com`.
    ### 2. Create New Project.
    ### 3. `Deploy` Project.
-   ### 4. Change Node js to version `18.x.x`.
-   ### 4. `Redeploy` Project.
+   ### 4. Change Node js to version `18.x`.
+   ### 5. `Redeploy` Project.
 
 Kamu bisa memilih versi PHP dengan menyesuaikan versi `vercel-php` di file `vercel.json`. Berikut referensi versi:
 
