@@ -43,7 +43,7 @@ Isi file `vercel.json` dengan kode berikut:
 {
 	"version": 2,
 	"builds": [
-		{ "src": "/api/index.php", "use": "vercel-php@0.3.1" },
+		{ "src": "/api/index.php", "use": "vercel-php@0.3.6" },
 		{ "src": "/user_guide/**", "use": "@vercel/static" }
 	],
     "routes": [
