@@ -4,7 +4,7 @@
 Panduan sederhana untuk menjalankan project **CodeIgniter 3** di platform **Vercel** menggunakan build pack `vercel-php`.
 
 ### 👁️ Preview
-[https://codeigniter3-vercel.vercel.app/](https://codeigniter3-vercel.vercel.app/)
+[https://codeigniter3.vercel.app/](https://codeigniter3.vercel.app/)
 
 ## 📁 Struktur Folder
 
